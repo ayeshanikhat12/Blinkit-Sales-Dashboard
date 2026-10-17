@@ -107,5 +107,5 @@ The current version establishes a clear reporting structure while documenting th
 
 ## Dashboard Preview
 
-![Blinkit Sales Dashboard](<img width="903" height="507" alt="image" src="https://github.com/user-attachments/assets/f5e7185c-ddd9-46c6-9562-ff0a8ffc93e4" />)
+![Blinkit Sales Dashboard](https://github.com/ayeshanikhat12/Blinkit-Sales-Dashboard/blob/4a770b46fae7f2168e4cad1b81d840298a34ea2a/blinkit%20.png)
 
