@@ -104,3 +104,7 @@ The current version establishes a clear reporting structure while documenting th
 **Project Type:** Data Analytics / Business Intelligence  
 **Status:** Initial dashboard version  
 **Primary Tool:** Microsoft Power BI Desktop
+
+## Dashboard Preview
+
+![Blinkit Sales Dashboard]()
